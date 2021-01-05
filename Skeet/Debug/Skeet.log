@@ -1,0 +1,21 @@
+﻿  Skeet.cpp
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\reticle.h(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\reticle.h(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\reticle.h(43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\reticle.h(44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\reticle.h(68): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\reticle.h(69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(140): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(141): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(142): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(143): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(368): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(771): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(772): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(777): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(778): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(791): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(792): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(796): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\skeet\skeet\skeet.cpp(797): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Skeet.vcxproj -> C:\Users\vjgen\OneDrive\Documents\VS_Projects\Skeet\Debug\Skeet.exe
