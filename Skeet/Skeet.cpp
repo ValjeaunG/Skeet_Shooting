@@ -701,17 +701,9 @@ int main(int argc, char** argv)
 						break;
 					}
 
-					switch (destroyed_boxes) {
-					case 50:
-						if (recoil_time == 1) bonus_points *= 2;
-						break;
-					case 75:
-						if (recoil_time == 1) bonus_points *= 3;
-						break;
-					case 99:
-						if (recoil_time == 1) bonus_points *= 4;
-						break;
-					}
+					if (destroyed_boxes > 49 && destroyed_boxes < 75 && end_timer == 1) bonus_points *= 2;
+					else if (destroyed_boxes > 74 && destroyed_boxes < 99 && end_timer == 1) bonus_points *= 3;
+					else if (destroyed_boxes >= 99 && end_timer == 1) bonus_points *= 4;
 				}
 			}
 			
